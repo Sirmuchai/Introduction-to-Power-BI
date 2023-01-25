@@ -13,11 +13,13 @@ information to prioritize their activities.
 Dalberg Data Insights (DDI) has requested you to develop a new food security
 monitoring tool to support the decision-making of one of those NGOs active in
 Karamoja.
+
 To do so, Dalberg Data Insights developed a methodology to remotely measure
 the yield of the two main staple crops of the region (i.e., sorghum and maize)
 based on satellite images. The agri-tech team just ran the model for the 2017
 crop season.
-As a Data Scientist, the agri-tech team is asking you to develop an interactive
+
+As a **Data Scientist**, the agri-tech team is asking you to develop an interactive
 visualization tool of the results for this first crop season. This visualization tool
 you will develop will be used as a first mockup of the Food Security Monitoring
 tool that DDI will develop for the NGO.
