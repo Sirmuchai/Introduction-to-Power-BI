@@ -29,3 +29,11 @@ and functionalities, but they know that the client wants:
 * At least a map in the dashboard
 * The possibility of visualizing the results by district or sub-county (two
 administrative levels used by the NGO)
+
+## Dataset Overview
+Dataset Source [Link]
+Shapefiles
+* Boundaries of Uganda Subcounties
+* Boundaries of Uganda Districts
+* Crop Type Map for Sorghum (i.e., position of the Sorghum fields)
+* Crop Type Map for Maize
